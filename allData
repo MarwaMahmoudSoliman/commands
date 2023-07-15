@@ -1,0 +1,11 @@
+const firstName ="israa"
+
+const lastName ="is"
+function mul(x,y){
+    console.log(x*y)
+}
+module.exports = {
+    fname : firstName,
+    lname : lastName ,
+function1 : mul
+} 
